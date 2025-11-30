@@ -1,18 +1,108 @@
-# 💫 About Me:
-HALOOO, INI MIJAANN!!
-
-
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/hamizann18) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@flawzaan) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:hamizanputra321@gmail.com) 
-
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![AMD](https://img.shields.io/badge/AMD-%23000000.svg?style=for-the-badge&logo=amd&logoColor=white) ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white) ![Riot Games](https://img.shields.io/badge/riotgames-D32936.svg?style=for-the-badge&logo=riotgames&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=hamizan18&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=hamizan18&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=hamizan18&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<h1 align="center">⚔ HAMIZΛN — Cyber Samurai of Code ⚡</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F0FF&center=true&vCenter=true&lines=Full+Stack+Developer+in+Training;AI+%26+Machine+Learning+Learner;Game+Dev+Explorer;Futuristic+Tech+Enthusiast;Welcome+to+My+Neon+Space!" />
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=hamizan18&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🥷 Cyber Samurai Introduction
+Hey there! I'm <b>Hamizan Putra Zulia</b> — call me <b>HAMIZΛN</b> ⚔  
+An undergraduate Informatics Engineering student with passion in:
+
+- 💻 Full Stack Development  
+- 🤖 AI, Machine Learning & Data Science  
+- 🎮 Game Development  
+- 🎨 Visual Art, Drawing, Creative Thinking  
+- 🌍 Learning Languages  
+
+I craft code the way a samurai swings his katana — clean, precise, and full of spirit.
+
+---
+
+## 🚀 Tech Arsenal (Skills Matrix)
+| Category | Tech |
+|---------|------|
+| *Languages* | C, Java, Python, Rust, PHP |
+| *Web Dev* | HTML, CSS, JS, Laravel, Express.js |
+| *Backend* | PHP, Node.js |
+| *AI/ML* | TensorFlow, Python ecosystem |
+| *Tools* | Git, MySQL, VSCode |
+| *OS/Hardware* | Linux, Windows, AMD |
+
+---
+
+## 🧩 About Me
+- 🎓 Informatics Engineering @ Politeknik Negeri Lhokseumawe  
+- 🌐 Future Full Stack Developer  
+- 🔥 Currently exploring AI & Machine Learning  
+- ⭐ Loves coding, drawing, languages, anime, and creative tech  
+
+---
+
+## 🧭 Languages I Use
+- 🇮🇩 Indonesian 
+- 🇬🇧 English  
+- 🇯🇵 Japanese (learning)   
+
+---
+
+## 🎮 Game Dev Corner
+I experiment with:
+- CLI RPG Systems  
+- Java OOP Battles  
+- C++ Struct & Pointer Simulations  
+- Attack Animation Text Effects  
+- Narrative + Visual Fusion Gameplay  
+
+> Creating worlds through code — one mechanic at a time ⚡
+
+---
+
+## 🗂 Portfolio Highlights
+### 🌐 *Web App Projects*
+- Online Food Ordering System  
+- Laravel CRUD Systems  
+- Authentication & Authorization Modules  
+- Full-stack web experiences
+
+### 🤖 *AI / Data Projects*
+- Basic ML models
+
+### 🎮 *Game / Simulation Projects*
+- "Oblivion Core Final Strike" C++ RPG  
+- Java text-based adventure  
+- Pointer-based battle simulations
+
+---
+
+## 🏅 Achievement Badges
+<p align="center">
+  <img src="https://img.shields.io/badge/Commit-Streak-F22F46?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Always-Learning-00F0FF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Code-Spirit-7F00FF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Cyber-Samurai-000000?style=for-the-badge" />
+</p>
+
+---
+
+## 📊 GitHub Stats (Neon Edition)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=hamizan18&theme=tokyonight&hide_border=false&count_private=false" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=hamizan18&theme=tokyonight&hide_border=false" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamizan18&theme=tokyonight&hide_border=false&layout=compact" />
+</div>
+
+---
+
+## 🥷 Anime Mascot Signature — Cyber Samurai Mode
+
+<p align="center">
+  <img src="https://i.imgur.com/ydFQp4s.gif" width="200" />
+  <br><em>“Evolving through every line of code.”</em>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://visitcount.itsvg.in/api?id=hamizan18&icon=6&color=12" />
+</p>
