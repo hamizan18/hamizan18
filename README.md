@@ -18,17 +18,17 @@ An undergraduate Informatics Engineering student with passion in:
 I craft code the way a samurai swings his katana — clean, precise, and full of spirit.
 
 ---
-
-## 🚀 Tech Arsenal (Skills Matrix)
-| Category | Tech |
-|---------|------|
-| *Languages* | C, Java, Python, Rust, PHP |
-| *Web Dev* | HTML, CSS, JS, Laravel, Express.js |
-| *Backend* | PHP, Node.js |
-| *AI/ML* | TensorFlow, Python ecosystem |
-| *Tools* | Git, MySQL, VSCode |
-| *OS/Hardware* | Linux, Windows, AMD |
-
+<center>
+  ## 🚀 Tech Arsenal (Skills Matrix)
+  | Category | Tech |
+  |---------|------|
+  | *Languages* | C, Java, Python, Rust, PHP, C++ |
+  | *Web Dev* | HTML, CSS, JS, Laravel, Express.js |
+  | *Backend* | PHP, Node.js |
+  | *AI/ML* | TensorFlow, Python ecosystem |
+  | *Tools* | Git, MySQL, VSCode |
+  | *OS/Hardware* | Linux, Windows, AMD |
+</center>
 ---
 
 ## 🧩 About Me
@@ -64,6 +64,7 @@ I experiment with:
 - Laravel CRUD Systems  
 - Authentication & Authorization Modules  
 - Full-stack web experiences
+- Aspirasi Mahasiswa (Backend)
 
 ### 🤖 *AI / Data Projects*
 - Basic ML models
@@ -85,24 +86,9 @@ I experiment with:
 
 ---
 
-## 📊 GitHub Stats (Neon Edition)
+## 📊 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hamizan18&theme=tokyonight&hide_border=false&count_private=false" />
   <img src="https://nirzak-streak-stats.vercel.app/?user=hamizan18&theme=tokyonight&hide_border=false" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamizan18&theme=tokyonight&hide_border=false&layout=compact" />
 </div>
 
 ---
-
-## 🥷 Anime Mascot Signature — Cyber Samurai Mode
-
-<p align="center">
-  <img src="https://i.imgur.com/ydFQp4s.gif" width="200" />
-  <br><em>“Evolving through every line of code.”</em>
-</p>
-
----
-
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=hamizan18&icon=6&color=12" />
-</p>
