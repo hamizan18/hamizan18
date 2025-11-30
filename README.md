@@ -18,17 +18,28 @@ An undergraduate Informatics Engineering student with passion in:
 I craft code the way a samurai swings his katana — clean, precise, and full of spirit.
 
 ---
-<center>
-  ## 🚀 Tech Arsenal (Skills Matrix)
-  | Category | Tech |
-  |---------|------|
-  | *Languages* | C, Java, Python, Rust, PHP, C++ |
-  | *Web Dev* | HTML, CSS, JS, Laravel, Express.js |
-  | *Backend* | PHP, Node.js |
-  | *AI/ML* | TensorFlow, Python ecosystem |
-  | *Tools* | Git, MySQL, VSCode |
-  | *OS/Hardware* | Linux, Windows, AMD |
-</center>
+
+<p align="center">
+
+<h2>🚀 Tech Arsenal (Skills Matrix)</h2>
+
+<table>
+  <tr>
+    <th>Category</th>
+    <th>Tech</th>
+  </tr>
+  <tr>
+    <td><b>Languages</b></td>
+    <td>C, Java, Python, Rust, PHP</td>
+  </tr>
+  <tr>
+    <td><b>Web Dev</b></td>
+    <td>HTML, CSS, JS, Laravel, Express.js</td>
+  </tr>
+</table>
+
+</p>
+
 ---
 
 ## 🧩 About Me
