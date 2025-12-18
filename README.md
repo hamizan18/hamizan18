@@ -95,5 +95,3 @@ I experiment with:
 </div>
 
 ---
-
-<img src="https://raw.githubusercontent.com/hamizan18/hamizan18/output/snake.svg" alt="Snake animation" />
