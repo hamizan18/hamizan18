@@ -90,8 +90,8 @@ I experiment with:
 ---
 
 ## 📊 GitHub Stats
-<div align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=hamizan18&theme=tokyonight&hide_border=false" />
-</div>
+<p align="center">
+  <img src="https://streak-stats.vercel.app?user=hamizan18&theme=tokyonight" />
+</p>
 
 ---
