@@ -1,4 +1,3 @@
-```markdown
 <h1 align="center">⚔ HAMIZΛN — Cyber Samurai of Code ⚡</h1>
 
 <p align="center">
@@ -107,4 +106,3 @@ I enjoy experimenting with:
 <p align="center">
   <img src="https://streak-stats.vercel.app?user=hamizan18&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </p>
-```
