@@ -1,4 +1,4 @@
-<h1 align="center">⚔ HAMIZΛN — Cyber Samurai of Code ⚡</h1>
+<h1 align="center">⚔ HAMIZΛN PUTRA ZULIA</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=00F0FF&center=true&vCenter=true&lines=Full+Stack+Developer+in+Training;AI+%26+Machine+Learning+Learner;Game+Dev+Explorer;Futuristic+Tech+Enthusiast;Welcome+to+My+Neon+Space!" alt="Typing SVG" />
